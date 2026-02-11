@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marco Modestino!</h1>
 
-<p align="center">You can reach me at <a href="mailto:marcomodestino@gmail.com">marcomodestino@gmail.com</a> or on discord @marco_mod
+<p align="center">You can reach me at <a href="mailto:marco.modestino@gmail.com">marco.modestino@gmail.com</a> or on discord @marco_mod
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
