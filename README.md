@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Modestino</h1>
-<h3 align="center"> looking for SWE/ML internships for Summer 2027 · CS Student @ UWindsor</h3>
+<h3 align="center"> Looking for SWE/ML internships for Summer 2027 · CS Student @ UWindsor</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Currently+building+Summit+Hockey;Junior+Dev+%40+JSOSIF+%7C+Lead+Web+Dev+%40+Enactus" alt="Typing SVG" />
